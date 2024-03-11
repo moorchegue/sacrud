@@ -11,7 +11,7 @@ def read(name):
 
 setup(
     name='sacrud',
-    version='0.3.7.post0',
+    version='0.3.8a',
     url='http://github.com/sacrud/sacrud/',
     author='Svintsov Dmitry',
     author_email='sacrud@uralbash.ru',
